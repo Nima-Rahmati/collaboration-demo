@@ -6,3 +6,5 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+## Project overview
+This project demonstrates GitHub collaboration workflows. Contributors can practice using Issues, branches, Pull Requests, and Code Reviews.
