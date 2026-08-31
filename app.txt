@@ -1,3 +1,2 @@
 Collaboration Demo Project
-Version 1.0
-New feature description: a clear explanation of the new feature.
+Version 1.1 - Feature A
